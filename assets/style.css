@@ -53,9 +53,11 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-body {
 
-}
+/* Règles vides, donc mis en commentaire */
+/* body {
+
+} */
 section {
 	margin-block: 6em;
 }
